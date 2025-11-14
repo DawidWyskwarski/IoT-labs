@@ -1,0 +1,22 @@
+{
+    "name": "RGBDiod",
+    "keywords": "rgb, colors",
+    "description": "Arduino Library for IoT Laboratory",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/DawidWyskwarski/IoT-labs.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Dawid Wyskwarski",
+            "email": "dawid.wyskwarski@example.com",
+            "maintainer": true
+        }
+    ],
+    "version": "1.0.0",
+    "homepage": "https://github.com/DawidWyskwarski/IoT-labs",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
